@@ -1,0 +1,56 @@
+#header{
+    color: rgb(213, 11, 11);
+    text-align: center;
+    letter-spacing: 3px;
+    font-family: cursive;
+    font-size: 2.5rem;
+}
+body{
+    background-color: pink;
+}
+#inp1{
+    font-size: 2rem;
+    
+    margin-top: 50px;
+    text-align: center;
+    color: red;
+    margin-left: 10rem;
+}
+#inp2{
+    font-size: 2rem;
+    margin-left: 20rem;
+    text-align: center;
+    color: red;
+    
+}
+#button{
+    font-size: 3rem;
+    margin-left: 40rem;
+    border-radius: 20px;
+    color: red;
+    background-color: white;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+.button:hover{
+    background-color: green;
+    
+}
+#result{
+    font-size: 4rem;
+    text-align: center;
+    margin-top: 125px;
+    border: 9px solid red;
+    color: red;
+    
+
+}
+#label{
+    margin-left: 40.5rem;
+    font-size: 1rem;
+    text-align: center;
+    color: red;
+    border: 2px solid;
+}
+    
+    
